@@ -1,0 +1,49 @@
+body {
+  font-family: "Open Sans", "sans-serif";
+  background-color: #f9fafc;
+}
+nav {
+  flex-direction: column;
+  display: flex;
+}
+h1 {
+  color: #000;
+  font-size: 20px;
+  font-weight: 100;
+}
+a {
+  text-decoration: none;
+  color: #69696a;
+}
+ul {
+  list-style: none;
+}
+li {
+  margin: 15px 0px;
+  font-size: 20px;
+}
+.button1 {
+  background-color: #000;
+  color: #fff;
+  border-radius: 10px;
+  height: 45px;
+  width: 100%;
+  border-style: none;
+}
+h2 {
+  font-size: 37px;
+  font-weight: 100;
+  margin: 10px 0px;
+}
+p {
+  color: #69696a;
+}
+.button2 {
+  background-color: #000;
+  color: #fff;
+  border-radius: 10px;
+  height: 45px;
+  width: 100%;
+  margin-top: 15px;
+  border-style: none;
+}
